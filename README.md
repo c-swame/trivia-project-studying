@@ -18,10 +18,12 @@ A aplicação é uma replica do jogo trívia, que trás:
 </ul>
 
 ### Rodando a aplicação:
-Para rodar a aplicação basta:
-1. Clonar o repositório
-2. rodar o comando `npm install`
-3. e em seguida o comando `npm start`
+Para rodar a aplicação basta, no seu editor de código (como o VSCode):
+1. Clonar o repositório;
+2. Rodar o comando `npm install`;
+3. E em seguida o comando `npm start`;
+Em seguida uma nova aba deve se abrir no seu navegador padrão com a aplicação rodando.
+Em alguns dias farei o deploy da aplicação e iniciar o desenvolvimento de banco de dados próprio (nota adicionada 23/09/2022).
 
 ## Tenologias Utilizadas:
 ### Principais tecnologias:
