@@ -6,7 +6,7 @@ Para o desenvolvimento do projeto, foram utilizadas as ferramentas React, Redux,
 A aplicação é uma replica do jogo trívia, que trás:
 <ul>
   <li>
-    Uma simulação de sistema de login que leva a um jogo de Trivia em inglês. Esse sistema de login usa o localStorage para armazenar os dados do jogador e indicar que uma sessão está ativa.
+    Uma simulação de sistema de login que leva a um jogo de Trivia em inglês. Esse sistema de login usa o localStorage para armazenar os dados do jogador e indicar que uma sessão está ativa utilizando um token que deve expirar a cada 6hrs no máximo.
    </li>
   <li>Uma pagina de configuração, onde pode-se configurar o tempo máximo de resposta, quantidae de preguntas, dificuldade e tema das perguntas</li>
   <li>
