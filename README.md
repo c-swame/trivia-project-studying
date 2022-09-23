@@ -17,6 +17,8 @@ A aplicação é uma replica do jogo trívia, que trás:
   </li>
 </ul>
 
+<img alt="demonstração do app" height="450px" src="https://raw.githubusercontent.com/c-swame/trivia-project-studying/main/public/trivia.gif">
+
 ### Rodando a aplicação:
 Para rodar a aplicação basta, no seu editor de código (como o VSCode):
 1. Clonar o repositório;
