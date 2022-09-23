@@ -1,8 +1,8 @@
 # Projeto TRIVIA;
-Projeto desenvolvido em grupo no módulo de frontend da [Trybe](https://www.betrybe.com/)
-Para o desenvolvimento do projeto, foram utilizadas as ferramentas React, Redux, mui (Material UI) e outras ferramentas auxiliáres em JavaScript;
+Projeto desenvolvido em grupo no módulo de frontend da [Trybe](https://www.betrybe.com/).
+O objetivo do projeto era colocar em prática conhecimentos sobre o uso do ciclo de vida de componentes react, estados globais, comunicação com API e lógica de programação, além de praticas de metodologias ágeis e trabalho em equipe.
 
-### Descrição;
+### Descrição da aplicação;
 A aplicação é uma replica do jogo trívia, que trás:
 <ul>
   <li>
@@ -17,6 +17,12 @@ A aplicação é uma replica do jogo trívia, que trás:
   </li>
 </ul>
 
+### Rodando a aplicação:
+Para rodar a aplicação basta:
+1. Clonar o repositório
+2. rodar o comando `npm install`
+3. e em seguida o comando `npm start`
+
 ## Tenologias Utilizadas:
 ### Principais tecnologias:
 <div>
@@ -30,12 +36,10 @@ A aplicação é uma replica do jogo trívia, que trás:
 </div>
 
 ### outras tecnologias e ferramentas:
-<ul>
-  <li>react-router-dom</li>
-  <li>crypto-js</li>
-  <li>redux-thunk</li>
-  <li>sanitize-html</li>
-</ul>
+* react-router-dom
+* crypto-js
+* redux-thunk
+* sanitize-html
 
 ## Futuras implementações:
 * Criação de banco de dados próprio para apresentar um ranking geral.
