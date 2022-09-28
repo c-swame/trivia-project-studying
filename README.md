@@ -2,6 +2,8 @@
 Projeto desenvolvido em grupo no módulo de frontend da [Trybe](https://www.betrybe.com/).
 O objetivo do projeto era colocar em prática conhecimentos sobre o uso do ciclo de vida de componentes react, estados globais, comunicação com API e lógica de programação, além de praticas de metodologias ágeis e trabalho em equipe.
 
+O deploy da aplicação pode ser encontrado [aqui](https://trivia-game-caio.herokuapp.com/settings).
+
 ### Descrição da aplicação;
 A aplicação é uma replica do jogo trívia, que trás:
 <ul>
@@ -18,6 +20,7 @@ A aplicação é uma replica do jogo trívia, que trás:
 </ul>
 
 <img alt="demonstração do app" height="450px" src="https://raw.githubusercontent.com/c-swame/trivia-project-studying/main/public/trivia.gif">
+Link para testar a aplicação: https://trivia-game-caio.herokuapp.com/settings
 
 ### Rodando a aplicação:
 Para rodar a aplicação basta, no seu editor de código (como o VSCode):
