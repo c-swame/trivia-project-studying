@@ -49,6 +49,7 @@ Em alguns dias farei o deploy da aplicação e iniciar o desenvolvimento de banc
 * sanitize-html
 
 ## Futuras implementações:
+* Adicionar responsividade
 * Criação de banco de dados próprio para apresentar um ranking geral.
 * Possibilidar a criação de partidas perguntas e jogos personalizados;
 * Possibilidar a votação nessas perguntas e jogos personalizados e report de bugs relacionados a essas perguntas;
